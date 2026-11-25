@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env*
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+.vercel/
+
+
+# local workspace snapshots / attachments
+workspace-c077dc4e-*
+*.tar
+
